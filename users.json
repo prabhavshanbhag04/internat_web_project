@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1773213228377",
+    "name": "prabhav",
+    "email": "prabhav@gmail.com",
+    "password": "$2b$10$dh58ZyhXiZqmIofwMFfEPe6K4cUv88vqP0qAkWpbjWmcSp1BNMyPm",
+    "createdAt": "2026-03-11T07:13:48.377Z"
+  },
+  {
+    "id": "1773213228407",
+    "name": "prabhav",
+    "email": "prabhav@gmail.com",
+    "password": "$2b$10$CZAB2c87CNm/Fbdx4Rjo4ujbAOpXvFvYtAUu.cSbb1XInh0JrgbqK",
+    "createdAt": "2026-03-11T07:13:48.407Z"
+  },
+  {
+    "id": "1773643620937",
+    "name": "rhea",
+    "email": "nnm23cs138@nmamit.in",
+    "password": "$2b$10$9Bo6/rmWfmNrOi129UbWX.syTBu27Xc17rH2RlPzCDiEPp6uqCxwa",
+    "createdAt": "2026-03-16T06:47:00.937Z"
+  },
+  {
+    "id": "1773667930534",
+    "name": "Prabhav",
+    "email": "p@gmail.com",
+    "password": "$2b$10$WlYsnd.TmyQGRbqV1mCQQuHGTqkDPvrFPma70QG6xIYKMBNltpnd2",
+    "createdAt": "2026-03-16T13:32:10.535Z"
+  },
+  {
+    "id": "1773717035515",
+    "name": "rajath",
+    "email": "r@gmail.com",
+    "password": "$2b$10$1Dj1JPi7v8N6YwpI5HMOZ.XSYkV2lgHNWv6iHilulwOthGqHcIciC",
+    "createdAt": "2026-03-17T03:10:35.515Z"
+  },
+  {
+    "id": "1773966493753",
+    "name": "pratham",
+    "email": "p1@gmail.com",
+    "password": "$2b$10$73qE9Y/Uwn4LEO7FUHvG5uK186YZqtmQJMQWbeGKozwSrN9lpMq8u",
+    "createdAt": "2026-03-20T00:28:13.753Z"
+  },
+  {
+    "id": "1776236175446",
+    "name": "raksha",
+    "email": "nnm23cs148@nmamit.in",
+    "password": "$2b$10$uz0A1F6ROISnHE8WSYBg5.ezSVLhVAwJ8ETo5R6dyYKu4P7fOfYke",
+    "createdAt": "2026-04-15T06:56:15.446Z"
+  },
+  {
+    "id": "1777733795064",
+    "name": "Prabhav Shanbhag",
+    "email": "nnm23cs126@nmamit.in",
+    "password": "$2b$10$2QpsCIioF3O95IVTzF.chu0bKFMSEnIQI9l/0TmRTGB6SHy2w2FKK",
+    "createdAt": "2026-05-02T14:56:35.064Z"
+  }
+]

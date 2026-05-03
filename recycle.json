@@ -1,0 +1,62 @@
+{
+  "1773717035515_b.txt": {
+    "originalName": "b.txt",
+    "userId": "1773717035515",
+    "versions": [
+      {
+        "filename": "1773717057480-b.txt",
+        "uploadDate": "2026-03-17T03:10:57.492Z",
+        "size": 17
+      }
+    ],
+    "deletedAt": "2026-03-17T03:11:17.991Z"
+  },
+  "1773966493753_1773818647807-a (2).out": {
+    "originalName": "1773818647807-a (2).out",
+    "userId": "1773966493753",
+    "versions": [
+      {
+        "filename": "1773966520018-1773818647807-a (2).out",
+        "uploadDate": "2026-03-20T00:28:40.029Z",
+        "size": 31840
+      }
+    ],
+    "deletedAt": "2026-03-20T00:29:01.459Z"
+  },
+  "1777733795064_Screenshot 2026-03-25 180833.png": {
+    "originalName": "Screenshot 2026-03-25 180833.png",
+    "userId": "1777733795064",
+    "versions": [
+      {
+        "filename": "1777733825591-Screenshot 2026-03-25 180833.png",
+        "uploadDate": "2026-05-02T14:57:05.595Z",
+        "size": 29526
+      }
+    ],
+    "deletedAt": "2026-05-02T14:57:18.958Z"
+  },
+  "1777733795064_Screenshot 2025-11-20 145019.png": {
+    "originalName": "Screenshot 2025-11-20 145019.png",
+    "userId": "1777733795064",
+    "versions": [
+      {
+        "filename": "1777733825455-Screenshot 2025-11-20 145019.png",
+        "uploadDate": "2026-05-02T14:57:05.465Z",
+        "size": 523350
+      }
+    ],
+    "deletedAt": "2026-05-02T14:57:24.892Z"
+  },
+  "1777733795064_Screenshot 2025-11-20 093633.png": {
+    "originalName": "Screenshot 2025-11-20 093633.png",
+    "userId": "1777733795064",
+    "versions": [
+      {
+        "filename": "1777733825418-Screenshot 2025-11-20 093633.png",
+        "uploadDate": "2026-05-02T14:57:05.424Z",
+        "size": 107398
+      }
+    ],
+    "deletedAt": "2026-05-02T14:57:29.073Z"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+uploads/
+metadata.json
+activity.log
+users.json
+*.log
